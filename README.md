@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  
+# Hi, I'm Juan Garro 👋
+  
+### Bachelor's Degree in Computer Science with Emphasis on Software Engineering
 
-<!--
-**JuanG05/juang05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>📚 Graduated at <a href="https://www.ucr.ac.cr/" target="_blank">Universidad de Costa Rica</a>.</p>
+<p>👨‍💻 Ionic and Angular are my friends.</p>
+<p>🕹 Passionate Game Developer.</p>
+<p>📄 I like to read patch notes.</p>
+<p>🌱 Every day I'm my best version.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+  
+### Connect with me 🤝
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/juan-garro-a8307a184/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
+  <a target="_blank" href="https://github.com/juang05"><img src="https://img.icons8.com/doodle/48/000000/github--v1.png"></a>
+  <a href="mailto:juangarro05@gmail.com"><img src="https://img.icons8.com/doodle/48/000000/new-post.png"></a>
+</p>
+  
+</div>
